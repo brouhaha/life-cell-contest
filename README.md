@@ -27,7 +27,8 @@ Mulitple entrants came up with three-chip entries, all of which used two four-bi
 
 I have not validated all of the entries. There were a few more entreis that were
 rejected for not meeting the rules or having obvious faults, and I have not listed
-those here.
+those here. Some contestants submitted multiple entries, and I have only listed their
+first entry with their lowest chip count.
 
 Thanks to everyone who participated!
 
