@@ -28,6 +28,9 @@ Mulitple entrants came up with three-chip entries, all of which used two four-bi
 As time permits, I'll add some of the other entries here.
 
 
+I started working on a design after I announced the challenge. Obviously I didn't enter the challenge myself, but after I validated my design in a simulator, on June 17th at 1738 MDT I tweeted the ssh256sum of the [schematic PDF](reference/brouhaha.pdf).
+
+
 ## Honorable mentions
 
 * @babbageboole proposed the idea of an analog design, right before I updated the rules to disallow it
