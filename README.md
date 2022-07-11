@@ -33,18 +33,18 @@ first entry with their lowest chip count.
 Thanks to everyone who participated!
 
 
-| ID                 | date | time (PDT) | chip count | chips                              |
-| ------------------ | ----------------- | ---------- | ---------------------------------- |
-| @RCAVictorCo       | June 17 | 1118    | 6          | 3 '283, 1 '06, 1 '08, 1 '4067      |
-| @babbageboole      | June 17 | 1136    | 6          | 4 '283, 1 '04, 1 '11               |
-| @summivox (winner) | June 18 | 0330    | 3          | 2 '283, 1 '4067                    |
-| @GrumpyCat111111   | June 19 | 1802    | 3          | 2 '283, 1 AS250                    |
-| @glidingholly      | June 19 | 1858    | 3          | 2 '283, 1 '151                     |
-| @ravenslofty       | June 23 | 0858    | 3          | 2 '283, 1 '151                     |
-| @pepijndevos       | June 26 | 0148    | 3          | 2 '283, 1 '251                     |
-| @Shaos1973         | June 27 | 0433    | 3          | 2 '283, 1 '151                     |
-| @xlengineer1       | June 30 | 0640    |            |                                    |
-| Larry Fish         | July 1  | 2322    | 9          | 1 '00, 2 '154, 2 '20, 2 '30, 2 '54 |
+| ID                 | date    | time (PDT) | chip count | chips                              |
+| ------------------ | ------- | --  ------ | ---------- | ---------------------------------- |
+| @RCAVictorCo       | June 17 | 1118       | 6          | 3 '283, 1 '06, 1 '08, 1 '4067      |
+| @babbageboole      | June 17 | 1136       | 6          | 4 '283, 1 '04, 1 '11               |
+| @summivox (winner) | June 18 | 0330       | 3          | 2 '283, 1 '4067                    |
+| @GrumpyCat111111   | June 19 | 1802       | 3          | 2 '283, 1 AS250                    |
+| @glidingholly      | June 19 | 1858       | 3          | 2 '283, 1 '151                     |
+| @ravenslofty       | June 23 | 0858       | 3          | 2 '283, 1 '151                     |
+| @pepijndevos       | June 26 | 0148       | 3          | 2 '283, 1 '251                     |
+| @Shaos1973         | June 27 | 0433       | 3          | 2 '283, 1 '151                     |
+| @xlengineer1       | June 30 | 0640       |            |                                    |
+| Larry Fish         | July 1  | 2322       | 9          | 1 '00, 2 '154, 2 '20, 2 '30, 2 '54 |
 
 
 ## My design (not a contest entry)
