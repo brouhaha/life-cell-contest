@@ -1,6 +1,6 @@
 # Life Cell Logic Design Contest
 
-On June 16, 2022, I announced a design challenge on Twitter, to design the combinatorial logic for one cell of John Conway's cellular automata "Life", with the objective of using a minimal number of discrete logic chips, with memory chips and programmable logic chips not allowed.
+On June 16, 2022, I announced a design challenge on Twitter, to design the combinatorial logic for one cell of [John Conway's cellular automata "Life"](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life), with the objective of using a minimal number of discrete logic chips, with memory chips and programmable logic chips not allowed.
 
 Here is a [compliation of the tweets of the announcement and rules](RULES.txt).
 
