@@ -39,7 +39,7 @@ I started working on a design after I announced the challenge. After I validated
 
 * @summivox actually degined a [two-chip analog design](honorable_mention/@summivox/summivox-analog.png), in addition to the winning three-chip digital design
 
-* @GrumpyCat111111  has a design using [four identical chips](@GrumpyCat111111/adders-only.png) ('283 adder)
+* @GrumpyCat111111  has a design using [four identical chips](honorable_mention/@GrumpyCat111111/adders-only.png) ('283 adder)
 
 * @pepijndevos has a design for [four cells using eight chips](honorable_mention/@pepijndevos/four-cell-eight-chip.jpg) (average two per cell)
 
