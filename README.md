@@ -62,3 +62,5 @@ I started working on a design after I announced the challenge. After I validated
 * @pepijndevos has a design for [four cells using eight chips](honorable_mention/@pepijndevos/four-cell-eight-chip.jpg) (average two per cell)
 
 * @Shaos1973 used a decision tree tool to generate a design using [25 2:1 mulitplexers](honorable_mention/@Shaos1973/mux-only.png)
+
+* Larry Fish for the all-SSI design (listed in the entry table above)
