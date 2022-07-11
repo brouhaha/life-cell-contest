@@ -1,0 +1,26 @@
+Tweets from July 2, 2022 about my (@brouhaha) design for a Life cell:
+
+At an early stage of my design. I had three adders and a few gates. Then I figured out some how to use a '283 as two logically separate full adders (three inputs with unit weighting, two bit output),
+
+and how to collapse the gates to a '151 eight-minute mux.
+The first '283 gave me pop counts of two disjoint sets of three neighbors each. The second '283 added those together, but also added in the seventh neighbor.
+
+That gave a three bit popcount of seven of the neighbors. That three bit popcount goes into the final stage along with the eighth neighbor and the current state, for a total of five inputs to the final stage.
+
+The final stage is an 8:1 mux, but has to handle five inputs. The first trick is that if the MSB of the partial popcount is set (4 or more), the final circuit has to be zero. The MSB can be fed into the enable of the mux.
+
+The three address inputs of the mux are then the low two bits of the partial popcount and the eighth neighbor input.
+
+But @brouhaha, you may say, what about the previous state of this cell? You forgot it, and you're out of mux address inputs!
+
+The other trick for using muxes for logic is that you don't have to hardwire each data input to 0 or 1. Some mux data inputs might be tied to another input of the overall logic function.
+
+Or, e.g., the conplement of an input. In this case, the previous cell state is tied to one or two (I forget) data inputs of the mux, and all the other data inputs are hardwired to 0 or 1.
+
+Luckily I did not need the complement of the previous state, or I would have needed an additional inverter.
+
+I was amazed that this three chip design fell together so well. I initially expected to need six or more chips.
+
+I think the other three chip designs work very similarly to mine, but due to the holiday I haven't yet been able to verify that.
+
+I learned how to use an 8:1 mux to implement any logic function of FOUR inputs (not just three) many years ago when I read Don Lancaster's _TTL Cookbook_. I don't recall having actually used that in any of my prior circuit designs, but somehow I never forgot it.

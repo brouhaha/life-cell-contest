@@ -28,7 +28,9 @@ Mulitple entrants came up with three-chip entries, all of which used two four-bi
 As time permits, I'll add some of the other entries here.
 
 
-I started working on a design after I announced the challenge. Obviously I didn't enter the challenge myself, but after I validated my design in a simulator, on June 17th at 1738 MDT I tweeted the ssh256sum of the [schematic PDF](reference/brouhaha.pdf).
+## My design (not a contest entry)
+
+I started working on a design after I announced the challenge. After I validated my design in a simulator, on June 17th at 1738 MDT I tweeted the ssh256sum of the [schematic PDF](reference/brouhaha.pdf). On July 2nd, after the contest deadline, I tweeted [notes regarding my design](reference/notes.txt). Many of the contestant's designs work similarly.
 
 
 ## Honorable mentions
@@ -39,6 +41,6 @@ I started working on a design after I announced the challenge. Obviously I didn'
 
 * @GrumpyCat111111  has a design using four identical chips ('283 adder)
 
-* @pepijndevos has a design for four cells using eight chips (average two per cell)
+* @pepijndevos has a design for [four cells using eight chips](honorable_mention/@pepijndevos/four-cell-eight-chip.jpg) (average two per cell)
 
 * @Shaos1973 used a decision tree tool to generate a design using 25 2:1 mulitplexers
