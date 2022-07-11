@@ -1,0 +1,55 @@
+Anyone interested in a design challenge using 74xx logic?
+1/
+
+The challenge is to design the logic (not including the state flip-flop) for one cell of John Conway's cellular automata "Life".
+The logic takes nine input signals, which are the current state of the cell and its eight neighbor cells.
+2/
+
+The logic has one output signal, the next state of this cell.
+The logic needs to be purely combinatorial, with no clock required.
+The objective is to minimize the chip count.
+3/
+
+The use of memory chips (RAM, ROM, PROM, EPROM) and programmable logic (PAL, CPLD) is not allowed. (Otherwise it would just be a one-chip solution.)
+The chips used must all be current production chips stocked or normally stocked by Digi-Key or Mouser.
+4/
+
+74LS or 74HCT are preferred, but other logic families (including CD4000) are acceptable subject to the other stated restrictions.
+5/
+
+The choice of winning design is at my sole discretion. I will give the winner a $50 (USD) Amazon gift card by email, except where prohibited by law, and subject to any Amazon policies.
+The entry deadline is 11:59 PM MDT Friday July 1st.
+6/
+
+Submit your entry by DMing me a link. If there's a problem with DM, you can let me know with a public tweet.
+Entry must be published under an open hardware license allowing modification and reuse, or public domain. Please state the license with the entry.
+7/
+
+That's it!
+I have a design of my own that I haven't yet tested, but I'll be interested to see what you can design! I'll publish my design after the challenge ends. (I'm not entering the contest, nor eligible for the gift card.)
+8/8
+
+So right after these tweets I drove off to see _Lightyear_, and as I drove it occurred to me that someone might try a partially analog design. I said it was supposed to be combinatorial logic, but just to be clear, it has to be digital logic.
+9/
+
+That means that bypass capacitors are fine, and appropriate valued pull-up resistors for open-collector or tri-state signal, but other than that, just digital logic.
+10/
+
+Unsurprisingly, while I was away, @babbageboole
+ DM'd me about an analog design. I'm happy to give him public credit for the idea, but I am not accepting it as a submission for the competition. Sorry!
+11/
+
+In the event of a tie (two or more qualifying submissions with equal IC package count), the earlier entry will be the winner.
+
+Using diodes as logic elements is not allowed. The purpose is to design with IC logic.
+13/
+
+If you have a really clever design that doesn't meet the stated requirements, I encourage submitting it anyhow, for a possible "honorable mention", but it still won't be eligible for the main competition.
+15/
+
+No one has yet asked, but you're allowed to use either positive logic (low = dead, high = live) ornegative logic (low = live, high = dead), as long as all nine inputs and the output use the same encoding.
+16/
+
+Stock (or usually stocked) from Mouser or Digi-Key means actual Mouser or Digi-Key stocking, not "marketplace" sellers that list with them, regardless of whether the marketplace seller's stock.may be in Mouser or Digi-Key's warehouse.
+17/
+
