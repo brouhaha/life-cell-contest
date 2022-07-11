@@ -18,14 +18,32 @@ product terms.
 
 ## Winner
 
-The [winning entry](entries/@summivox/summivox.png) was submitted by @summivox. It is a three chip design using two 74LS283 four-bit adders and a 74HC[T]4067 sixteen-to-one multiplexer.
+The [winning entry](entries/@summivox/summivox.png) was submitted by @summivox on June 18th at 0330 PDT. It is a three chip design using two 74LS283 four-bit adders and a 74HC[T]4067 sixteen-to-one multiplexer.
 
 
 ## Entries
 
 Mulitple entrants came up with three-chip entries, all of which used two four-bit adders (74LS283 or equivalent) and an 8:1 or 16:1 multiplexer. They differ in minor details, but all work in essentially the same way.
 
-As time permits, I'll add some of the other entries here.
+I have not validated all of the entries. There were a few more entreis that were
+rejected for not meeting the rules or having obvious faults, and I have not listed
+those here.
+
+Thanks to everyone who participated!
+
+
+| ID                 | submitted PDT  | chip count | chips                         |
+| ------------------ | -------------- | ---------- | ----------------------------- |
+| @RCAVictorCo       | June 17, 1118  | 6          | 3 '283, 1 '06, 1 '08, 1 '4067 |
+| @babbageboole      | June 17  1136  | 6          | 4 '283, 1 '04, 1 '11          |
+| @summivox (winner) | June 18, 0330  | 3          | 2 '283, 1 '4067               |
+| @GrumpyCat111111   | June 19, 1802  | 3          | 2 '283, 1 AS250               |
+| @glidingholly      | June 19, 1858  | 3          | 2 '283, 1 '151                |
+| @ravenslofty       | June 23, 0858  | 3          | 2 '283, 1 '151                |
+| @pepijndevos       | June 26, 0148  | 3          | 2 '283, 1 '251                |
+| @Shaos1973         | June 27, 0433  | 3          | 2 '283, 1 '151                |
+| @xlengineer1       | June 30, 0640  |            |                               |
+| Larry Fish         | July 1,  0341  | 13         | 1 '04, 6 '10, 2 '32, 4 '86    |
 
 
 ## My design (not a contest entry)
