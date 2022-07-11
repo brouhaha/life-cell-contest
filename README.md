@@ -25,6 +25,8 @@ The [winning entry](entries/@summivox/summivox.png) was submitted by @summivox. 
 
 Mulitple entrants came up with three-chip entries, all of which used two four-bit adders (74LS283 or equivalent) and an 8:1 or 16:1 multiplexer. They differ in minor details, but all work in essentially the same way.
 
+As time permits, I'll add some of the other entries here.
+
 
 ## Honorable mentions
 
