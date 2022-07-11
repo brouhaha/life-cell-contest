@@ -18,7 +18,7 @@ product terms.
 
 ## Winner
 
-The [winning entry](entries/@summivox/@summivox.png) was submitted by @summivox. It is a three chip design using two 74LS283 four-bit adders and a 74HC[T]4067 sixteen-to-one multiplexer.
+The [winning entry](entries/@summivox/summivox.png) was submitted by @summivox. It is a three chip design using two 74LS283 four-bit adders and a 74HC[T]4067 sixteen-to-one multiplexer.
 
 
 ## Entries
